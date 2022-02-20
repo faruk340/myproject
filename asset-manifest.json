@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/react12345/static/css/main.96f145ab.css",
+    "main.js": "/react12345/static/js/main.05d0b7a1.js",
+    "static/media/car_claim_4.png": "/react12345/static/media/car_claim_4.bb8a62f36242e0c80e7e.png",
+    "static/media/home_img_1.jpg": "/react12345/static/media/home_img_1.c1f8b850d604f6629511.jpg",
+    "static/media/hero_bike_1.png": "/react12345/static/media/hero_bike_1.cebd55c06e872e325a6f.png",
+    "static/media/hero_car_1.png": "/react12345/static/media/hero_car_1.f73bf1852fddfd5f86b6.png",
+    "static/media/rupees.png": "/react12345/static/media/rupees.c7c3f3b37168d3985a56.png",
+    "static/media/new_bike.png": "/react12345/static/media/new_bike.f2dd05aae6268a7c2659.png",
+    "index.html": "/react12345/index.html",
+    "main.96f145ab.css.map": "/react12345/static/css/main.96f145ab.css.map",
+    "main.05d0b7a1.js.map": "/react12345/static/js/main.05d0b7a1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.96f145ab.css",
+    "static/js/main.05d0b7a1.js"
+  ]
+}
